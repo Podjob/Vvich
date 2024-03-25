@@ -1,0 +1,336 @@
+-O0
+M: 800	N: 800
+p: 1	T1: 9.1s
+M: 800	N: 800
+p: 2	T2: 4.62s
+M: 800	N: 800
+p: 4	T4: 2.63s
+M: 800	N: 800
+p: 8	T8: 1.43s
+M: 800	N: 800
+p: 16	T16: 1.05s
+M: 800	N: 800
+p: 32	T32: 1.28s
+-O3
+M: 800	N: 800
+p: 1	T1: 3.94s
+M: 800	N: 800
+p: 2	T2: 3.44s
+M: 800	N: 800
+p: 4	T4: 3.08s
+M: 800	N: 800
+p: 8	T8: 1.61s
+M: 800	N: 800
+p: 16	T16: 0.994s
+M: 800	N: 800
+p: 32	T32: 1.22s
+-O0
+M: 800	N: 800
+p: 1	T1: 8.98s
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd2
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd3
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd4
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd5
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd6
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd7
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd8
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd2
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd3
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd4
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd5
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd6
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd7
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd8
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+-O3
+M: 800	N: 800
+p: 1	T1: 3.93s
+M: 800	N: 800
+p: 2	T2: 3.42s
+M: 800	N: 800
+p: 4	T4: 3.13s
+M: 800	N: 800
+p: 8	T8: 1.58s
+M: 800	N: 800
+p: 16	T16: 1.12s
+M: 800	N: 800
+p: 32	T32: 1.2s
+-O0
+M: 800	N: 800
+p: 1	T1: 9.03s
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd2
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd3
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd4
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd5
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd6
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd7
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd8
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd2
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd3
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd4
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd5
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd6
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd7
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+------------------------------------------------------------
+A process or daemon was unable to complete a TCP connection
+to another process:
+  Local host:    nd1
+  Remote host:   nd8
+This is usually caused by a firewall on the remote host. Please
+check that any firewall (e.g., iptables) has been disabled and
+try again.
+------------------------------------------------------------
+-O3
+M: 800	N: 800
+p: 1	T1: 3.93s
+M: 800	N: 800
+p: 2	T2: 3.4s
+M: 800	N: 800
+p: 4	T4: 3.1s
+M: 800	N: 800
+p: 8	T8: 1.67s
+M: 800	N: 800
+p: 16	T16: 1.03s
+M: 800	N: 800
+p: 32	T32: 1.11s
+-O0
+M: 800	N: 800
+p: 1	T1: 8.36s
+M: 800	N: 800
+p: 2	T2: 4.68s
+M: 800	N: 800
+p: 4	T4: 2.56s
+M: 800	N: 800
+p: 8	T8: 1.44s
+M: 800	N: 800
+p: 16	T16: 1.04s
+M: 800	N: 800
+p: 32	T32: 1.14s
+-O3
+M: 800	N: 800
+p: 1	T1: 3.95s
+M: 800	N: 800
+p: 2	T2: 3.43s
+M: 800	N: 800
+p: 4	T4: 3.17s
+M: 800	N: 800
+p: 8	T8: 1.66s
+M: 800	N: 800
+p: 16	T16: 1.18s
+M: 800	N: 800
+p: 32	T32: 1.1s
